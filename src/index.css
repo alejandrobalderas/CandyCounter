@@ -1,0 +1,23 @@
+body {
+  background-color: #282c34;
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+
+.like-btn {
+  margin: 0 10px 0 10px;
+}
+
+.candy-container {
+  padding: 10px;
+}
+
+.more-candy-btn {
+  margin-top: 20px;
+}
+
+.bar-chart {
+  fill: steelblue;
+}
